@@ -11,9 +11,9 @@ Repositories
 
 Plan
 ----
-+ Korsvalidering lineäerregression
-Låt tre kolumner förklara en kpmbinerad diagnos. Korsvalidering fem, en kontroll.
-    * hitta referenser där metoden analyseras
-    * normalisera databasen, vissa kolumner ganska olinjära.
++ Korsvalidering line��erregression
+L��t tre kolumner f��rklara en kpmbinerad diagnos. Korsvalidering fem, en kontroll.
+    * hitta referenser d��r metoden analyseras. Numme, kurvpassning?
+    * normalisera databasen, vissa kolumner ganska olinj��ra.
 + Ggobi och andra explorativa metoder
 
